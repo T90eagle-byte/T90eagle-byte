@@ -15,7 +15,6 @@
 | Проект | Описание |
 |---|---|
 | [Format Security Pattern](https://github.com/T90eagle-byte/format-security-pattern) | Микросервисный прототип контроля безопасности входных данных |
-| [Security Research](https://github.com/T90eagle-byte/security-research) | Портфолио прикладных научных исследований |
 | DNS Tunnel Detection | Исследование статистических методов обнаружения DNS-туннелирования (в разработке) |
 
 ## Технические компетенции
